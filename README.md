@@ -1,1 +1,1 @@
-# mirhosseini
+# FAIR multimodal BIDS
